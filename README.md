@@ -11,7 +11,7 @@ This repo contains work samples from past experiences. Each software development
 <br>A rideshare-style platform with all the tools necessary for independent drivers to operate their own business
 <br>2020 - Sole Developer & Designer
 <br>50+ Features | 45+ Custom REST APIs | 30+ Unique Screens
-<br><a href="https://xd.adobe.com/view/9c735f30-f504-4a0b-b14a-fd31d43d71bf-c920/?fullscreen">tyrn Work Samples</a>
+<br><a href="https://xd.adobe.com/view/4678b5fc-9432-4979-83af-e48b4586084b-132b/?fullscreen">tyrn Work Samples</a>
 
 **QuickPrints**
 <br>A platform marketplace that makes selling high quality prints of your photos a breeze
