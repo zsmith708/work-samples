@@ -17,7 +17,7 @@ This repo contains work samples from past experiences. Each software development
 <br>A platform marketplace that makes selling high quality prints of your photos a breeze
 <br>2019 - Sole Developer & Designer
 <br>55+ Features | 40+ Custom REST APIs | 50+ Unique Screens
-<br><a href="https://xd.adobe.com/view/cfb7a497-33fa-48f8-afeb-1b6d98a89eab-9ae4/?fullscreen">QuickPrints Work Samples</a>
+<br><a href="https://xd.adobe.com/view/9c735f30-f504-4a0b-b14a-fd31d43d71bf-c920/?fullscreen">QuickPrints Work Samples</a>
 
 **Scrutinize**
 <br>An automated ledger review tool that makes accountants better and more efficient
